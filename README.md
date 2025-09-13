@@ -5,7 +5,7 @@ Each project is stored in a separate branch for easy navigation.
 
 ## 🌿 Branches & Projects
 - **main** → General documentation and setup instructions  
-- **Randomizer** → [Random Audit Assign Macro](RehmanAnsari92/tree/Randomizer)  
+- **Randomizer** → [Random Audit Assign Macro]([RehmanAnsari92/tree/Randomizer](https://github.com/RehmanAnsari92/VBA-Automation/tree/Randomizer))  
 - **AutoDateFiller** → [Auto Date Filler Macro](../../tree/AutoDateFiller)  
 
 ## 🔧 How to Use
